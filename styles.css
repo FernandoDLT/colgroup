@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+table, th, td {
+    border: 1px solid rebeccapurple;
+    border-collapse: collapse;
+}
+
+colgroup { 
+    background-color: #D6EEEE;
+}
+
+
+table {
+    width: 100%;
+}
